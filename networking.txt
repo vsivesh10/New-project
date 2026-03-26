@@ -1,0 +1,11 @@
+1.IP address : unique address of a device
+Used to track activity of a device
+Ex 174.2.10.4
+IP address - 4 bytes or 32 bits, each byte separated by a dot(0-255)IPV4
+2.Subnet : Splitting of a network
+Advantages - Security/privacy
+Two types - Private,public
+Private subnet - no access to internet
+Public - have access to internet
+CIDR - IP address range
+3.Port : unique address of a application.
